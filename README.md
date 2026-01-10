@@ -44,7 +44,7 @@ ada 1 admin dan 1 user yaitu:
 
 ### Petunjuk Singkat
 
-1. URL Webnya, maka muncul tampilan Login.
+1. Buka Webnya, maka muncul tampilan Login.
 
 ![](image/screenshot1.png)
 
@@ -90,6 +90,8 @@ Tetapi karena akun ada role user dan admin, makan ada perbedaan dimana user memb
 
 ### Penjelasan Singkat dan Demo Video
 
+https://youtu.be/hkvv5xdiGvA?si=bd8M6ObPflu_SUfk
 
+### Link PDF
 
-### Link URL Web
+https://drive.google.com/file/d/1jwqoYvn_TViBGvxiKS0fpjyrgp93kLqh/view?usp=sharing
